@@ -6,6 +6,11 @@ I am curious by nature, always looking for things to learn and projects to work 
 
 Looking to colaborate in any projects that can help me grow as a developer!
 
+
+### Skills
+[https://img.shields.io/badge/Android-lightgrey?style=for-the-badge&logo=android](https://img.shields.io/badge/Android-lightgrey?style=for-the-badge&logo=android&logoColor=white&labelColor=green)
+
+
 <!--
 **Pernas94/Pernas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
