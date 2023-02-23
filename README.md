@@ -8,7 +8,13 @@ Looking to colaborate in any projects that can help me grow as a developer!
 
 
 ### Skills
-[https://img.shields.io/badge/Android-lightgrey?style=for-the-badge&logo=android](https://img.shields.io/badge/Android-lightgrey?style=for-the-badge&logo=android&logoColor=white&labelColor=green)
+![Android](https://img.shields.io/badge/Android-lightgrey?style=for-the-badge&logo=android&logoColor=white&labelColor=green)</br>
+![Android Studio](https://img.shields.io/badge/Android_Studio-lightgrey?style=for-the-badge&logo=android&logoColor=white&labelColor=green)</br>
+![Kotlin](https://img.shields.io/badge/Kotlin-lightgrey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=violet)</br>
+![Java](https://img.shields.io/badge/Java-lightgrey?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=darkblue)</br>
+![Firebase](https://img.shields.io/badge/Firebase-lightgrey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=orange)</br>
+
+
 
 
 <!--
