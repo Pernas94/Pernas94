@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! I'm Mauro, a junior developer looking for new professional challenges.
+
+I am focused mainly in native apps development with Kotlin/Java in Android Studio, but I am always open to learning new skills and working with new technologies. Backend developments are also one of my main interests.
+
+I am curious by nature, always looking for things to learn and projects to work in. In fact, to learn and contribute are the principles I live by.
+
+Looking to colaborate in any projects that can help me grow as a developer!
 
 <!--
 **Pernas94/Pernas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
